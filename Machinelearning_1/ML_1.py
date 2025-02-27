@@ -43,7 +43,4 @@
 # b = {"name": "Abhinav", "age": "20"}
 # for n in b.values():
 #     print(n)
-count = 1
-while count <=6:
-    print (count)
-    count +=1
+
